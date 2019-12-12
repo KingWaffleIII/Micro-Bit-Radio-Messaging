@@ -7,6 +7,8 @@ Simply connect an LED, using crocodile clips, from P0 to the long leg (positive)
 
 # Any ideas or criticism is welcome!
 
+# You can get the code with the following link which will send you directly to the editor to edit your message or download .hex file provided in the repository!
+
 # - KingWaffleIII
 
 
