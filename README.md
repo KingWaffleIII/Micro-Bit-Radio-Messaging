@@ -16,9 +16,6 @@ v1.0: `https://makecode.microbit.org/_1cqctdT22Mcw`
 v1.0:
 - Inital Release
 
-v1.1:
-- Added feature where you can type your message using the Micro:Bit! After setting the channel, you will be asked to type a message. Press 'B' to go to the next character in the alphabet (lowercase only), numbers or special characters  `(abcdefghiklmnopqrstuvwxyz0123456789 !"£$%^&*()-_=+[{]};:'@#~,<.>/?)`. Press 'A' to add the displayed character to the message. Press 'A' and 'B' to finalise your message and transmit it to the channel. Remember to add any ideas or criticism!
-
 # - KingWaffleIII
 
 
